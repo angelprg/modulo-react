@@ -1,19 +1,19 @@
 # Ejemplos del módulo de React
 
-- 01-primer-componente
-- 02-composicion-de-componentes
-- 03-componentes-con-props
-- 04-eventos-en-componentes
-- 05-renderizado-condicional
-- 06-array-de-componentes
-- 07-componentes-con-sass
-- 08-hook-usestate
-- 09-formularios-controlados
-- 10-callbacks-como-props
-- 11-hook-useeffect
-- 12-fetch-data
-- 13-hook-useeffect-dependencias
-- 14-hook-useeffect-cleanup
-- 15-crud
-- 16-react-router
-- 17-react-router-queryparams
+- [01-primer-componente](https://github.com/angelprg/modulo-react/tree/main/primer-componente)
+- [02-composicion-de-componentes](https://github.com/angelprg/modulo-react/tree/main/composicion-de-componentes)
+- [03-componentes-con-props](https://github.com/angelprg/modulo-react/tree/main/componentes-con-props)
+- [04-eventos-en-componentes](https://github.com/angelprg/modulo-react/tree/main/eventos-en-componentes)
+- [05-renderizado-condicional](https://github.com/angelprg/modulo-react/tree/main/renderizado-condicional)
+- [06-array-de-componentes](https://github.com/angelprg/modulo-react/tree/main/array-de-componentes)
+- [07-componentes-con-sass](https://github.com/angelprg/modulo-react/tree/main/componentes-con-sass)
+- [08-hook-usestate](https://github.com/angelprg/modulo-react/tree/main/hook-usestate)
+- [09-formularios-controlados](https://github.com/angelprg/modulo-react/tree/main/formularios-controlados)
+- [10-callbacks-como-props](https://github.com/angelprg/modulo-react/tree/main/callbacks-como-props)
+- [11-hook-useeffect](https://github.com/angelprg/modulo-react/tree/main/hook-useeffect)
+- [12-fetch-data](https://github.com/angelprg/modulo-react/tree/main/fetch-data)
+- [13-hook-useeffect-dependencias](https://github.com/angelprg/modulo-react/tree/main/hook-useeffect-dependencias)
+- [14-hook-useeffect-cleanup](https://github.com/angelprg/modulo-react/tree/main/hook-useeffect-cleanup)
+- [15-crud](https://github.com/angelprg/modulo-react/tree/main/crud)
+- [16-react-router](https://github.com/angelprg/modulo-react/tree/main/react-router)
+- [17-react-router-queryparams](https://github.com/angelprg/modulo-react/tree/main/react-router-queryparams)
